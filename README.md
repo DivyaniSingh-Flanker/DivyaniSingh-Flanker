@@ -27,8 +27,8 @@
 **[🛰️ Launch Trajectory — Predicting Orbital Launch Outcomes & Mapping Global Space Industry Trends](https://github.com/DivyaniSingh-Flanker/launch-trajectory-space-industry-analytics)**
 Personal capstone project analyzing historical orbital launches to uncover trends in success rates and industry growth, with a classification model predicting launch outcomes. *Python · Machine Learning · EDA · Data Visualization*
 
-**[🛒 Market Basket Analysis — Snapdeal](https://github.com/DivyaniSingh-Flanker/market-basket-analysis-snapdeal)**
-Association rule mining on e-commerce transaction data to uncover product bundling and cross-sell opportunities. *Python · Machine Learning*
+**[📊 Snapdeal Customer Insights & Segmentation Analysis](https://github.com/DivyaniSingh-Flanker/snapdeal-customer-segmentation-analytics)**
+Cleaned an 800-respondent customer survey, built rule-based and K-Means clustering segments, and delivered actionable retention recommendations for at-risk customers. *Python · Machine Learning · Clustering*
 
 **[📦 Logistics Optimization for Delivery Routes — FedEx](https://github.com/DivyaniSingh-Flanker/fedex-logistics-sql-optimization)**
 SQL-driven analysis of delivery route data to identify and address operational inefficiencies. *SQL*
