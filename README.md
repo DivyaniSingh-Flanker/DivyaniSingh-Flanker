@@ -1,8 +1,8 @@
 # Hi, I'm Divyani Singh 👋
 
-**Aerospace Engineer → Data Scientist.** I build end-to-end data science projects — from raw data to trained models to dashboards — bringing an engineering mindset to messy, real-world data.
+**Aerospace Engineer → Data Scientist.** I build end-to-end data science projects- from raw data to trained models to dashboards- bringing an engineering mindset to messy, real-world data.
 
-🎓 B.Tech, Aerospace Engineering — MIT ADT University, Pune
+🎓 B.Tech, Aerospace Engineering- MIT ADT University, Pune
 📍 Pune, Maharashtra, India
 🔗 [LinkedIn](https://www.linkedin.com/in/divyaniflanker3021/) · 📧 m84397140@gmail.com
 
@@ -17,8 +17,6 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-MS%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git%2FGitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**Currently strengthening:** NLP · Deep Learning fundamentals
 
 ---
 
@@ -47,7 +45,7 @@ Social media engagement analysis to inform strategic branding recommendations. *
 ### 🤝 Team Project Experience
 
 **[🤖 Dynamic AI Chatbot — Amdox Technologies](https://github.com/Divyani-Singh3021/Dynamic-ai-chatbot)**
-3-month team internship (5-member team). My role: **Database Integration & Analytics** — built MongoDB persistence and analytics tracking (session stats, intent distribution, sentiment trends) for a full-stack Python (FastAPI) + React chatbot. *Python · MongoDB · FastAPI · React*
+3-month team internship (5-member team). My role: **Database Integration & Analytics** - built MongoDB persistence and analytics tracking (session stats, intent distribution, sentiment trends) for a full-stack Python (FastAPI) + React chatbot. *Python · MongoDB · FastAPI · React*
 
 ---
 
